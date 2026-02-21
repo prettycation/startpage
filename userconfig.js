@@ -259,9 +259,9 @@ const default_configuration = {
               icon_color: palette.green,
             },
             {
-              name: "calendar",
-              url: "https://calendar.google.com",
-              icon: "calendar-filled",
+              name: "cloudflare",
+              url: "https://dash.cloudflare.com",
+              icon: "brand-cloudflare",
               icon_color: palette.peach,
             },
             {
@@ -288,9 +288,9 @@ const default_configuration = {
               icon_color: palette.green,
             },
             {
-              name: "mil.in.ua",
-              url: "https://mil.in.ua",
-              icon: "badge-filled",
+              name: "allsides",
+              url: "https://www.allsides.com",
+              icon: "cube",
               icon_color: palette.peach,
             },
             {
