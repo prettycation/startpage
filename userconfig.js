@@ -160,6 +160,12 @@ const default_configuration = {
               icon: "brand-reddit",
               icon_color: palette.red,
             },
+            {
+              name: "bluesky",
+              url: "https://bsky.app",
+              icon: "brand-bluesky",
+              icon_color: palette.blue,
+            }
           ],
         },
         {
@@ -207,15 +213,15 @@ const default_configuration = {
               icon_color: palette.peach,
             },
             {
-              name: "patreon",
-              url: "https://www.patreon.com",
-              icon: "brand-patreon",
+              name: "bilibili",
+              url: "https://www.bilibili.com",
+              icon: "brand-bilibili",
               icon_color: palette.red,
             },
             {
-              name: "kyivstar",
-              url: "https://tv.kyivstar.ua",
-              icon: "star-filled",
+              name: "patreon",
+              url: "https://www.patreon.com",
+              icon: "brand-patreon",
               icon_color: palette.blue,
             },
           ],
