@@ -138,7 +138,7 @@ const default_configuration = {
           links: [
             {
               name: "github",
-              url: "https://github.com",
+              url: "https://github.com/prettycation",
               icon: "brand-github",
               icon_color: palette.green,
             },
