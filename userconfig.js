@@ -254,7 +254,7 @@ const default_configuration = {
           links: [
             {
               name: "gmail",
-              url: "https://mail.google.com",
+              url: "https://www.emailtick.com",
               icon: "brand-gmail",
               icon_color: palette.green,
             },
