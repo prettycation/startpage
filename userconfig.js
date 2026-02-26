@@ -219,9 +219,9 @@ const default_configuration = {
               icon_color: palette.red,
             },
             {
-              name: "patreon",
-              url: "https://www.patreon.com",
-              icon: "brand-patreon",
+              name: "pixiv",
+              url: "https://pixiv.perennialte.ch",
+              icon: "letter-p",
               icon_color: palette.blue,
             },
           ],
